@@ -26,8 +26,8 @@ pip install -r requirements.txt
 
 ### Prepare input files:
 
-Place your interview responses in sample_responses.txt.
-Define expected key phrases in expected_key_phrases.txt.
+Place your interview responses in 'sample_responses.txt.'
+Define expected key phrases in 'expected_key_phrases.txt.'
 
 
 ### Run the script:

@@ -12,31 +12,31 @@ Install dependencies using pip:
 pip install -r requirements.txt
 ```
 
-##Usage
-###Clone the repository:
+## Usage
+### Clone the repository:
 ```bash
 git clone https://github.com/your-username/interview-response-analysis.git
 cd interview-response-analysis
 ```
 
-###Install dependencies:
+### Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-###Prepare input files:
+### Prepare input files:
 
 Place your interview responses in sample_responses.txt.
 Define expected key phrases in expected_key_phrases.txt.
 
 
-###Run the script:
+### Run the script:
 
 ```bash
 python interview_analysis.py
 ```
 
-###Follow the prompts:
+### Follow the prompts:
 
 Choose whether to read responses from sample_responses.txt or enter them manually.
 Enter responses manually if selected, type 'done' to finish.
@@ -62,9 +62,9 @@ Moderate: 1
 Low: 0
 ```
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have suggestions, open an issue or create a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
